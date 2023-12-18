@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Garima/Garima/go-workspace/go-bookstore/pkg/models"
-	"github.com/Garima/go-bookstore/pkg/utils"
+	"github.com/garimashukla-123/BookStore-management-system/go-bookstore/pkg/models"
+	"github.com/garimashukla-123/BookStore-management-system/go-bookstore/pkg/utils"
 	"github.com/gorilla/mux"
 )
 

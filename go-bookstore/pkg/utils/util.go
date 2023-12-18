@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"encodinf/json"
+	"encoding/json"
 	"io/ioutil"
 	"net/http"
 )
