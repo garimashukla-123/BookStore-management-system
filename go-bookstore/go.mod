@@ -1,4 +1,4 @@
-module github.com/Garima/go-bookstore
+module github.com/garimashukla-123/BookStore-management-system/go-bookstore
 
 go 1.21.5
 

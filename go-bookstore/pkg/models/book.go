@@ -1,8 +1,8 @@
-pacakge models
+package models
 
 import(
 	"github.com/jinzhu/gorm"
-	"github.com/Garima/go-workspace/go-bookstore/pkg/config"
+	"github.com/garimashukla-123/BookStore-management-system/go-bookstore/pkg/config"
 
 )
 
